@@ -24,6 +24,7 @@
           cmake
           pkg-config
           qt6.wrapQtAppsHook
+          qt6.qttools
           makeWrapper
         ];
 
